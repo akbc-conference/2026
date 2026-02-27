@@ -1,0 +1,49 @@
+- title: AKBC 2026
+  url: "/"
+  side: left
+  dropdown:
+  - title: "AKBC 2022"
+    url: "https://akbc.ws/2022"
+  - title: "AKBC 2021"
+    url: "https://akbc.ws/2021"
+  - title: "AKBC 2020"
+    url: "https://akbc.ws/2020"
+  - title: "AKBC 2019"
+    url: "https://akbc.ws/2019"
+
+- title: Program
+  url: "/cfp/"
+  side: left
+  dropdown:
+  - title: "Call for Papers"
+    url: "/cfp/"
+  - title: "Call for Workshops"
+    url: "/cfw/"
+  - title: "Invited Speakers"
+    url: "/speakers/"
+  - title: "Accepted Papers"
+    url: "/papers/"
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: "Accepted Workshops"
+    url: "/workshops/"
+
+- title: Information for participants
+  url: "/venue/"
+  side: left
+  dropdown:
+  - title: "Venue"
+    url: "/venue/"
+    side: left
+
+- title: Dates
+  url: "/#dates"
+  side: left
+
+- title: Registration
+  url: "/registration/"
+  side: left
+
+- title: Organization
+  url: "/organization/"
+  side: left

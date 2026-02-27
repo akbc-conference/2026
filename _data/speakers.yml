@@ -1,0 +1,12 @@
+# Invited speakers for AKBC 2026
+# Add speaker entries here as they are confirmed
+# Example format:
+# - UID: speaker_uid
+#   speaker: First Last
+#   institution: University/Company
+#   url: https://example.com/
+#   thumbnail: speaker_photo.jpg
+#   title: "Talk Title"
+#   abstract: "Abstract text here."
+#   bio: "Bio text here."
+#   slides: ""

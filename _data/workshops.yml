@@ -1,0 +1,10 @@
+# Accepted workshops for AKBC 2026
+# Add workshop entries here as they are confirmed
+# Example format:
+# - UID: WORKSHOP_UID
+#   name: Workshop Full Name
+#   url: https://workshop-website.example.com/
+#   organizers:
+#     - Organizer One
+#     - Organizer Two
+#   duration: Half-Day
