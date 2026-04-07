@@ -1,0 +1,33 @@
+- UID: WISE
+  name: Weak, Indirect and Self Supervision for Knowledge Extraction (WISE Supervision)
+  url: https://wise-supervision.github.io/
+  organizers: 
+    - Wenpeng Yin
+    - Muhao Chen
+    - Lifu Huang 
+    - Huan Sun 
+    - Hongming Zhang
+    - Benjamin Roth
+    - Barbara Plank
+  duration: Half-Day
+    
+- UID: FinKG
+  name: Knowledge Graphs for Finance and Economics
+  url: https://finance-at-akbc.bubbleapps.io/
+  organizers: 
+    - Caitlin Walsh
+    - Nathan Burton
+    - Garrett Conway
+    - Migael Strydom
+    - Ye Tian
+  duration: Half-Day
+  
+- UID: SocKBC
+  name: Workshop on Social Aspects of Automated Knowledge Base Creation
+  url: https://sites.google.com/view/socialakbc/home
+  organizers:
+    - Chaitanya Baru
+    - Geof Bowker
+    - David Ribes
+    - Sam Klein 
+  duration: Half-Day

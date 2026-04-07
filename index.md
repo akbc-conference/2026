@@ -1,54 +1,49 @@
 ---
-title: AKBC 2021
+title: AKBC 2022
 layout: frontpage
 header:
-  image_fullwidth: "generic-gradient.png"
+  image_fullwidth: "London-AKBC-up.png"
 ---
 
-#### October 4-8, 2021 (Virtual)
+#### 3-5 November, 2022 (Barbican Center, London, UK + Virtual)
 
 ## Knowledge Base Construction
 
 Knowledge gathering, representation, and reasoning are among the fundamental challenges of artificial intelligence. Large-scale repositories of knowledge about entities, relations, and their abstractions are known as “knowledge bases”. Most major technology companies now have substantial efforts in knowledge base construction, and related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness. The AKBC conference serves as a research forum for all these areas, in both academia and industry.
 
-## New Conference
-
-Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has become a conference, with two widely-acclaimed instantiations in Amherst MA in 2019 and held virtually last year. Why a new stand-alone conference?
-
-- Long-standing and growing interest in the area, now with too much material for a one-day workshop. We have sufficient material for a two-day conference plus topical workshops.
-- We want to grow and connect the community beyond existing individual conference communities, bringing together ML, NLP, DB, IR, KRR, semantics, reasoning, common sense, QA, human computation, dialog, HCI.
-- We want to set our own culture, including reviewing practices, and meeting format. We have fond memories of the first AKBC 2010 in Grenoble: a two-day meeting that included an afternoon hike in the Alps with much great scientific discussion.
-- Why now? Growing interest across many areas. Disconnect among multiple relevant communities. Growing industry and government interest. Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
-
 ## Latest news
-- **Oct 2021**: [Outstanding papers]({{ site.baseurl }}/awards) announced.<br/>
-- **Sep 2021**: Virtual conference hub is now online (passwords will be emailed to [registered users](https://akbc.ws/2021/registration/) soon)
-- **Sep 2021**: Online registration is now open! Please register [here](https://na.eventscloud.com/akbc2021).
-- **Sep 2021**: List of [accepted papers](http://akbc.ws/2021/papers) available now.
-- **Aug 2021**: Registration will open early September!
-- **Jul 2021**: All papers submitted to AKBC this year are [here](https://openreview.net/group?id=AKBC.ws/2021/Conference#all-submissions). Check them out!
-- **Jul 2021**: List of [workshops]({{ site.baseurl }}/workshops/) are available now.
-- **Jun 2021**: **We have extended the paper submission deadline to June 21, 2021.**
-- **May 2021**: [Submission Site](https://www.akbc.ws/2021/submission) is live.
-- **May 2021**: [Call for workshops](http://akbc.ws/2021/cfw) released.
-- **Apr 2021**: [Call for papers](http://akbc.ws/2021/cfp) released.
-- **Dec 2020**: Website is publicly available.
-- **Sep 2020**: Website up, with tentative dates.
+- **September 2022**: Registration is Now Open!
+- **April 2022**: Exciting new Sponsors!
 
 <a name="dates"></a>
 
 ## Key Dates
-
-- **Paper submission deadline**: ~~June 17, 2021~~ June 21, 2021
-- **Author response period**: July 23-30, 2021
-- **Notification of acceptance**: August 18, 2021
-- **Conference & Workshop Dates**: October 4-8, 2021
+- **Paper submission deadline (OpenReview)**: July 10th
+- **Commitment deadline (ARR, with reviews and meta review)**: August 5th
+- **Author response period**: August 5th - August 10th
+- **Notification of acceptance**: September 1st
+- **Conference & Workshop Dates**: November 3rd-5th
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
+
+## Sponsors
+### Silver
+<p float="left">
+<img src="https://www.akbc.ws/2022/assets/img/sponsors/amazon_logo_RGB.png" alt="Amazon" width="100"/>
+<img src="https://www.akbc.ws/2022/assets/img/sponsors/Horizontal Version of Huawei Corporate Logo_2018.png" alt="Huawei" width="100"/>
+<img src="https://www.akbc.ws/2022/assets/img/sponsors/google-logo-new.png" alt="Google" width="100"/>
+<img src="https://www.akbc.ws/2022/assets/img/sponsors/BYJU_S _Corporate Logo_Purple[35].png" alt="BYJU" width="100"/>
+</p>
+
+### Bronze
+<p float="left">
+<img src="https://www.akbc.ws/2022/assets/img/sponsors/ADBB32B3-FCAA-4436-83AC-2BBEE44E09BE.jpeg" alt="Benevolent" width="100"/>
+</p>
 
 ## Previous Conferences / Workshops
 
 <br />
+3rd Conference on [AKBC 2021](http://akbc.ws/2021), held virtually <br />
 2nd Conference on [AKBC 2020](http://akbc.ws/2020), held virtually <br />
 1st Conference on [AKBC 2019](http://akbc.ws/2019) in Amherst <br />
 [AKBC 2017](http://akbc.ws/2017) at NIPS 2017, Long Beach <br />

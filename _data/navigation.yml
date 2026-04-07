@@ -1,0 +1,99 @@
+- title: AKBC 2022
+  url: "/"
+  side: left
+  dropdown:
+  - title: "AKBC 2019"
+    url: "https://akbc.ws/2019"
+  - title: "AKBC 2020"
+    url: "https://akbc.ws/2020"
+  - title: "AKBC 2021"
+    url: "https://akbc.ws/2021"
+
+- title: Program
+  url: "/schedule/"
+  side: left
+  dropdown:
+  - title: Virtual Conference
+    url: "https://virtual.akbc.ws"
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: Accepted Papers
+    url: "/papers/"
+  
+  - title: Invited Speakers 
+    url: "/speakers/"
+  - title: Call for Papers
+    url: "/cfp/"
+#   - title: Call for Workshops
+#     url: "/cfw/"
+  - title: "Accepted Workshops"
+    url: "/workshops/"
+
+  - title: "Call for Participation"
+    url: "/cfpart/"
+    
+  #- title: "Awards"
+  #  url: "/awards/"
+  #- title: "Workshops"
+  #  url: "/workshops/"
+
+#- title: Registration
+#  url: "/registration/"
+#  side: left
+# - title: "Program"
+#   url: "/schedule/"
+#   side: left
+#   dropdown:
+#   - title: "Schedule"
+#     url: "/schedule/"
+#   - title: "Speakers"
+#     url: "/speakers/"
+#   - title: "Workshops"
+#     url: "/workshops/"
+#   - title: "Accepted papers"
+#     url: "https://openreview.net/group?id=AKBC.ws/2019/Conference"
+#   - title: "Hike Information"
+#     url: "/hike/"
+#   - title: Call for papers
+#     url: "/cfp/"
+
+- title: Information for participants
+  url: "/venue"
+  side: left
+  dropdown:
+  - title: "Venue"
+    url: "/venue/"
+    side: left
+  - title: "Gather Town"
+    url: "/gathertown/"
+    side: left
+  # - title: "Travel"
+  #   url: "/travel/"
+  #   side: left
+
+  # dropdown:
+  #   - title: "Venue"
+  #     url: "/venue/"
+  # - title: "Visa information"
+  #   url: "/registration/#visa"
+  # - title: "Travel"
+  #   url: "/travel/"
+# - title: Sponsors
+#   url: "/sponsors/"
+#   side: left
+
+- title: Dates
+  url: "/#dates"
+  side: left
+
+- title: Registration
+  url: "/registration/"
+  side: left
+
+- title: Scholarships
+  url: "/scholarships/"
+  side: left
+
+- title: Organization
+  url: "/organization/"
+  side: left

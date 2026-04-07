@@ -1,0 +1,28 @@
+- name: Sebastian Riedel
+  url: https://www.riedelcastro.org/
+  location: University College London, DeepMind
+  position: General Chair
+- name: Eunsol Choi
+  url: https://www.cs.utexas.edu/~eunsol/
+  location: UT Austin, Google AI
+  position: Program Co-Chair
+- name: Andreas Vlachos
+  url: http://andreasvlachos.github.io/
+  location: University of Cambridge
+  position: Program Co-Chair
+- name: James Thorne
+  url: https://jamesthorne.com
+  location: KAIST AI
+  position: Workshop Chair
+- name: Marek Rei
+  url: https://www.marekrei.com/
+  location: Imperial College London
+  position: Virtual Platform Chair
+- name: Fabio Petroni
+  location: Samaya AI
+  position: Local Chair
+  url: https://fabiopetroni.com
+- name: Moy Yuan
+  location: University of Cambridge
+  position: Website Chair
+  url: https://www.moyyuan.com
