@@ -13,6 +13,11 @@
   class: icon-twitter
   title: "Twitter handle of AKBC conference"
 
+- name: LinkedIn
+  url: https://www.linkedin.com/company/akbc-workshop/
+  class: icon-linkedin
+  title: "LinkedIn page of AKBC workshop"
+
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
 #   class: icon-cloud
