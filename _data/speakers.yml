@@ -1,0 +1,11 @@
+- UID: "mausam"
+  thumbnail: "mausam.jpg"
+  speaker: "Mausam"
+  institution: "IIT Delhi"
+  url: "https://www.cse.iitd.ac.in/~mausam/"
+
+- UID: "hengji"
+  thumbnail: "heng.jpg"
+  speaker: "Heng Ji"
+  institution: "University of Illinois Urbana-Champaign"
+  url: "https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en"
