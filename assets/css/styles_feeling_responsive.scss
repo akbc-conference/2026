@@ -228,3 +228,49 @@ table.dates-table td:last-child {
   color: #fff;
 }
 
+/* AKBC 2026 — LinkedIn callout under masthead (subtle info-note style) */
+.linkedin-callout {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  padding: 0.6em 0.9em;
+  margin: 1.2em 0 1.8em;
+  border-left: 3px solid #0a66c2;
+  background: transparent;
+  text-decoration: none !important;
+  color: #333;
+  font-size: 0.95em;
+}
+.linkedin-callout:hover .linkedin-callout-cta {
+  text-decoration: underline;
+}
+.linkedin-callout-icon {
+  font-size: 1.1em;
+  color: #0a66c2;
+  flex-shrink: 0;
+}
+.linkedin-callout-icon:before {
+  content: "\f11d";
+}
+.linkedin-callout-text {
+  flex: 1;
+  line-height: 1.4;
+}
+.linkedin-callout-text strong {
+  font-weight: 600;
+  margin-right: 0.25em;
+}
+.linkedin-callout-cta {
+  flex-shrink: 0;
+  color: #0a66c2;
+  white-space: nowrap;
+}
+@media (max-width: 640px) {
+  .linkedin-callout {
+    flex-wrap: wrap;
+  }
+  .linkedin-callout-cta {
+    width: 100%;
+  }
+}
+

@@ -1,5 +1,6 @@
 ---
 title: 10th Workshop on Automated Knowledge Base Construction
+display_title: "10th Workshop on<br>Automated Knowledge Base Construction"
 layout: page-fullwidth
 header:
   image_fullwidth: "budapest.jpg"
@@ -16,10 +17,21 @@ It follows a successful series of previous editions: as an independent conferenc
 
 <a name="news"></a>
 
+<a class="linkedin-callout" href="https://www.linkedin.com/company/akbc-workshop/" target="_blank" rel="noopener">
+  <span class="linkedin-callout-icon iconfont"></span>
+  <span class="linkedin-callout-text">
+    <strong>Stay in the loop.</strong>
+    Follow AKBC on LinkedIn for deadlines, speaker announcements, and shared task updates.
+  </span>
+  <span class="linkedin-callout-cta">Follow &rarr;</span>
+</a>
+
 ## News
 
-- April 13th, 2026: The Web page of AKBC goes live
+- May 21st, 2026: We are excited to announce [Heng Ji](https://siebelschool.illinois.edu/about/people/faculty/hengji) (UIUC) as a keynote speaker
+- May 21st, 2026: We are excited to announce [Mausam](https://www.cse.iitd.ac.in/~mausam/) (IIT Delhi) as a keynote speaker
 - April 27th, 2026: We receive news that the workshop will be held on the 28th or 29th of October, 2026
+- April 13th, 2026: The Web page of AKBC goes live
 
 <a name="dates"></a>
 
