@@ -58,26 +58,26 @@ AKBC provides a venue at the intersection of natural language processing, knowle
 
 We invite submissions on topics including, but not limited to:
 
-### Knowledge for Generative Models
+#### Knowledge for Generative Models
 
 - Knowledge-aware pretraining and fine-tuning
 - Factuality, attribution, and verification in generation
 - Neuro-symbolic methods and hybrid models
 - Injecting and editing knowledge in LLMs
 
-### Building and Maintaining Knowledge
+#### Building and Maintaining Knowledge
 
 - Knowledge extraction and consolidation from text and multimodal data
 - Knowledge graphs, ontologies, and schema alignment
 - Knowledge base construction, completion, and continual updates
 
-### Retrieval and Reasoning
+#### Retrieval and Reasoning
 
 - Retrieval-augmented generation (RAG) with structured sources
 - Graph-based and knowledge-intensive question answering
 - Multi-hop reasoning and interaction with KBs
 
-### Vision Papers
+#### Vision Papers
 
 - New roles for structured knowledge in generative models
 - Knowledge-aware training objectives, pretraining, and fine-tuning
@@ -101,9 +101,9 @@ For bold ideas, emerging directions, and unifying perspectives. We particularly 
 
 For system descriptions and analyses related to the [AKBC shared task]({{ site.baseurl }}/shared-task.html), co-located with the workshop. These submissions should describe participating systems, methodologies, and lessons learned from the challenge. The page limit is 4 pages + references.
 
-### Presentation Formats
+#### Presentation Formats
 
-Accepted papers will be presented as posters, with a selection invited for lightning talks. The workshop will also feature invited keynotes from leading researchers in academia and industry.
+Accepted papers will be presented as posters, with a selection invited for lightning talks. Remote participation is possible for both attendees and authors. Instead of presenting their poster physically, remote authors will upload heir poster to the workshop Web site. The workshop will also feature invited keynotes from leading researchers in academia and industry.
 
 <a name="shared-task"></a>
 
