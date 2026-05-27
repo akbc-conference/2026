@@ -7,7 +7,7 @@ header:
 permalink: /
 ---
 
-Co-located with [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary &mdash; **October 28th or 29th, 2026**.
+Co-located with [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary &mdash; **October 28, 2026**.
 
 While Large Language Models (LLMs) have revolutionized NLP, they remain prone to hallucinations, reasoning "mode-collapse" in open-ended generation, and a lack of factual provenance. The Automated Knowledge Base Construction (AKBC) workshop addresses a key missing piece of the generative era: structured knowledge. Knowledge Bases (KBs) serve as ground truth for fact verification, the semantic backbone for constrained decoding in generation, and as a resource behind Retrieval-Augmented Generation (RAG).
 
@@ -28,9 +28,10 @@ It follows a successful series of previous editions: as an independent conferenc
 
 ## News
 
+- May 27th, 2026: The workshop day is fixed to **October 28, 2026**
 - May 21st, 2026: We are excited to announce [Heng Ji](https://siebelschool.illinois.edu/about/people/faculty/hengji) (UIUC) as a keynote speaker
 - May 21st, 2026: We are excited to announce [Mausam](https://www.cse.iitd.ac.in/~mausam/) (IIT Delhi) as a keynote speaker
-- April 27th, 2026: We receive news that the workshop will be held on the 28th or 29th of October, 2026
+- April 27th, 2026: We receive news that the workshop will be held on October 28, 2026
 - April 13th, 2026: The Web page of AKBC goes live
 
 <a name="dates"></a>
@@ -44,7 +45,7 @@ It follows a successful series of previous editions: as an independent conferenc
     <tr><td>ARR commitment (research)</td><td><span class="date-pill">August 25, 2026</span></td></tr>
     <tr><td>Notification of acceptance</td><td><span class="date-pill">September 1, 2026</span></td></tr>
     <tr><td>Camera ready due</td><td><span class="date-pill">September 15, 2026</span></td></tr>
-    <tr><td>Workshop date</td><td><span class="date-pill date-pill-highlight">October 28th or 29th, 2026</span></td></tr>
+    <tr><td>Workshop date</td><td><span class="date-pill date-pill-highlight">October 28, 2026</span></td></tr>
   </tbody>
 </table>
 
