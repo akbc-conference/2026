@@ -9,3 +9,9 @@
   speaker: "Heng Ji"
   institution: "University of Illinois Urbana-Champaign"
   url: "https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en"
+
+- UID: "alonhalevy"
+  thumbnail: "alon.jpg"
+  speaker: "Alon Halevy"
+  institution: "Google"
+  url: "https://en.wikipedia.org/wiki/Alon_Halevy"

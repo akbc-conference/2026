@@ -27,12 +27,15 @@
   affiliation: University of California, San Diego
 
 - name: Roi Cohen
+  url: https://hpi.de/en/de-melo/team.html
   affiliation: HPI
 
 - name: Hiba Arnaout
+  url: https://hibaarnaout.com/
   affiliation: Darmstadt University
 
 - name: Shrestha Ghosh
+  url: https://ghoshs.github.io/
   affiliation: Tübingen University
 
 - name: Paul Groth
@@ -68,4 +71,5 @@
   affiliation: University of Zurich
 
 - name: Mohamed Gad-Elrab
+  url: https://gadelrab.de/
   affiliation: Bosch Research
