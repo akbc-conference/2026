@@ -86,7 +86,7 @@
     <div class="news-strip">
         <div class="container">
             <i class="fa-solid fa-bullhorn me-2"></i>
-            <strong>16.04.2026:</strong> First website online. Check back for updates.
+            <strong>May 2026:</strong> Dataset cleanup release &mdash; richer object aliases, resolved Q-ID subjects, <code>hasArea</code> unit corrections, and a duplicate row removed from the test set (now 477 rows). See the <a href="https://github.com/lm-kbc/dataset2026#news" target="_blank">repository</a> for full details.
         </div>
     </div>
 
@@ -280,7 +280,7 @@
                             <tbody>
                                 <tr>
                                     <td><code>countryLandBordersCountry</code></td>
-                                    <td class="text-center">68</td>
+                                    <td class="text-center">67</td>
                                     <td class="text-center">68</td>
                                     <td class="text-center">67</td>
                                     <td><span class="prop-badge prop-set">set-valued</span> <span class="prop-badge prop-null">null values</span></td>
@@ -331,6 +331,49 @@
                         are available in the
                         <a href="https://github.com/lm-kbc/dataset2026" target="_blank">GitHub repository</a>
                     </p>
+
+                    <h4 class="mt-4">Relation definitions</h4>
+                    <p>
+                        These are the precise scopes used when constructing the ground truth. Models are evaluated
+                        against these definitions, so target them rather than a generic interpretation.
+                    </p>
+                    <ul>
+                        <li>
+                            <strong><code>countryLandBordersCountry</code></strong> &mdash; countries (or comparable
+                            territories) that share a <strong>land</strong> border with the subject. Maritime borders
+                            (e.g. Russia&ndash;Japan, Samoa&ndash;USA) are <strong>excluded</strong>. Island countries
+                            without a land border have an empty answer set. Includes only currently-recognised states;
+                            deprecated/disputed border statements on Wikidata are not considered.
+                        </li>
+                        <li>
+                            <strong><code>personHasCityOfDeath</code></strong> &mdash; the <strong>city</strong> where
+                            the person died. Granularity is the city, not the country or region. If the person is still
+                            living or no city is known, the answer is empty.
+                        </li>
+                        <li>
+                            <strong><code>hasCapacity</code></strong> &mdash; the <strong>maximum spectator capacity</strong>
+                            of the venue, expressed as an integer <strong>number of people</strong>. For stadiums and
+                            arenas this corresponds to Wikidata's <code>P1083</code>. When multiple capacities exist
+                            (seated vs total, before/after renovation), the <strong>highest published capacity</strong> is used.
+                        </li>
+                        <li>
+                            <strong><code>awardWonBy</code></strong> &mdash; entities that have received the specific
+                            award identified by the subject. Predecessor or successor awards (e.g. <em>Medal of Freedom</em>
+                            vs <em>Presidential Medal of Freedom</em>) are <strong>distinct</strong> and not bundled.
+                            Some awards have hundreds of recipients; expect large object sets.
+                        </li>
+                        <li>
+                            <strong><code>companyTradesAtStockExchange</code></strong> &mdash; the stock exchange(s) on
+                            which the company's shares are publicly traded. Multiple listings are possible. Subsidiaries
+                            that are not separately listed have an empty answer set.
+                        </li>
+                        <li>
+                            <strong><code>hasArea</code></strong> &mdash; the surface area of the subject geographic
+                            entity, in <strong>square kilometres</strong> (km&sup2;). For countries, the
+                            <strong>total area</strong> (land + inland water) is used, matching the Wikidata preferred-rank
+                            value for <code>P2046</code>. Areas reported in hectares, square miles, etc. are converted to km&sup2;.
+                        </li>
+                    </ul>
                 </section>
 
                 <!-- ========== EVALUATION ========== -->
@@ -433,7 +476,7 @@
                             <div class="submit-card h-100">
                                 <i class="fa-solid fa-chart-bar fa-lg text-accent"></i>
                                 <h4>Leaderboard</h4>
-                                <p>Submit predictions to CodaLab (link TBA)</p>
+                                <p>Submit predictions on <a href="https://www.codabench.org/competitions/16267/" target="_blank">Codabench</a></p>
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
