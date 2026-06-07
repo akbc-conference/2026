@@ -45,7 +45,7 @@ It follows a successful series of previous editions: as an independent conferenc
     <tr><td>Direct submission (shared task)</td><td><span class="date-pill">August 15, 2026</span></td></tr>
     <tr><td>ARR commitment (research)</td><td><span class="date-pill">August 25, 2026</span></td></tr>
     <tr><td>Notification of acceptance</td><td><span class="date-pill">September 1, 2026</span></td></tr>
-    <tr><td>Camera ready due</td><td><span class="date-pill">September 15, 2026</span></td></tr>
+    <tr><td>Camera ready due</td><td><span class="date-pill">September 10, 2026</span></td></tr>
     <tr><td>Workshop date</td><td><span class="date-pill date-pill-highlight">October 28, 2026</span></td></tr>
   </tbody>
 </table>
