@@ -103,6 +103,9 @@ img
   object-fit: cover;
   border-radius: 50%;
 }
+.speaker-card img[alt="Alon Halevy"] {
+  object-position: 50% 15%;
+}
 .speaker-card .speaker-name {
   margin-top: 0.5em;
   font-weight: bold;
@@ -273,4 +276,3 @@ table.dates-table td:last-child {
     width: 100%;
   }
 }
-
