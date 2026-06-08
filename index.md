@@ -124,7 +124,7 @@ Further details are on the [shared task page]({{ site.baseurl }}/shared-task.htm
 <div class="speakers-grid">
 {% for s in site.data.speakers %}
   <div class="speaker-card">
-    <a href="{{ s.url }}"><img src="{{ site.baseurl }}/assets/img/{{ s.thumbnail }}" alt="{{ s.speaker }}"></a>
+    <a href="{{ s.url }}"><img src="{{ site.baseurl }}/assets/img/{{ s.thumbnail }}" alt="{{ s.speaker }}" {% if s.photo_class %}class="{{ s.photo_class }}"{% endif %}></a>
     <div class="speaker-name"><a href="{{ s.url }}">{{ s.speaker }}</a></div>
     <div class="speaker-affil">{{ s.institution }}</div>
   </div>
