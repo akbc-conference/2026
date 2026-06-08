@@ -12,6 +12,7 @@
 
 - UID: "alonhalevy"
   thumbnail: "alon.jpg"
+  photo_class: "speaker-photo-alonhalevy"
   speaker: "Alon Halevy"
   institution: "Google"
   url: "https://en.wikipedia.org/wiki/Alon_Halevy"
