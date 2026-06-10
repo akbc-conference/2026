@@ -89,3 +89,19 @@
 - name: Andrea Schimmenti
   url: https://andreaschimmenti.it/
   affiliation: Università di Bologna
+
+- name: Danqi Chen
+  url: https://www.cs.princeton.edu/~danqic/
+  affiliation: Princeton University
+
+- name: Doug Downey
+  url: https://users.cs.northwestern.edu/~ddowney/
+  affiliation: Allen Institute for AI / Northwestern University
+
+- name: Roman Klinger
+  url: https://www.romanklinger.de/
+  affiliation: University of Bamberg
+
+- name: Jay Pujara
+  url: https://www.jaypujara.org/
+  affiliation: USC Information Sciences Institute
