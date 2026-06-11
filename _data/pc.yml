@@ -2,6 +2,42 @@
   url: https://sameersingh.org/
   affiliation: University of California, Irvine
 
+- name: Gerhard Weikum
+  url: https://people.mpi-inf.mpg.de/~weikum/
+  affiliation: Max Planck Institute for Informatics
+
+- name: Sunita Sarawagi
+  url: https://www.cse.iitb.ac.in/~sunita/
+  affiliation: IIT Bombay
+
+- name: Annalisa Gentile
+  url: https://anligentile.github.io/
+  affiliation: IBM
+
+- name: Nitisha Jain
+  url: https://nitishajain.github.io/
+  affiliation: Microsoft Research Cambridge
+
+- name: Sören Auer
+  url: https://research.uni-hannover.de/en/persons/s%C3%B6ren-auer/
+  affiliation: University of Hannover
+
+- name: Danqi Chen
+  url: https://www.cs.princeton.edu/~danqic/
+  affiliation: Princeton University
+
+- name: Doug Downey
+  url: https://users.cs.northwestern.edu/~ddowney/
+  affiliation: Allen Institute for AI / Northwestern University
+
+- name: Zifeng Ding
+  url: https://www.cst.cam.ac.uk/people/zd320
+  affiliation: Cambridge University
+
+- name: Moy Yuan
+  url: https://www.moyyuan.com/
+  affiliation: Amazon
+  
 - name: Paolo Papotti
   url: https://papotti.eurecom.io/
   affiliation: EURECOM
@@ -9,6 +45,14 @@
 - name: Gerard de Melo
   url: http://gerard.demelo.org/
   affiliation: Hasso Plattner Institute
+
+- name: Steffen Staab
+  url: https://www.ki.uni-stuttgart.de/institute/team/Staab-00004/
+  affiliation: University of Stuttgart
+
+- name: Rainer Gemulla
+  url: https://www.uni-mannheim.de/dws/people/professors/prof-dr-rainer-gemulla/
+  affiliation: University of Mannheim
 
 - name: Luis Galárraga
   url: https://luisgalarraga.de/
@@ -82,21 +126,9 @@
   url: http://bennokruit.nl/
   affiliation: Amsterdam UMC
 
-- name: Nitisha Jain
-  url: https://nitishajain.github.io/
-  affiliation: Microsoft Research Cambridge
-
 - name: Andrea Schimmenti
   url: https://andreaschimmenti.it/
   affiliation: Università di Bologna
-
-- name: Danqi Chen
-  url: https://www.cs.princeton.edu/~danqic/
-  affiliation: Princeton University
-
-- name: Doug Downey
-  url: https://users.cs.northwestern.edu/~ddowney/
-  affiliation: Allen Institute for AI / Northwestern University
 
 - name: Roman Klinger
   url: https://www.romanklinger.de/
