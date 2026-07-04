@@ -322,6 +322,17 @@ pre {
   opacity: .85;
 }
 
+.news-strip a {
+  color: #fff !important;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: 600;
+}
+
+.news-strip a:hover {
+  opacity: .75;
+}
+
 /* --- Main Content Area --- */
 #main {
   background: var(--color-surface);
