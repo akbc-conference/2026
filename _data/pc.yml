@@ -141,3 +141,27 @@
 - name: Zachary Ives
   url: https://www.cis.upenn.edu/~zives
   affiliation: University of Pennsylvania
+
+- name: Samy Haffoudhi
+  url: https://samyhaff.github.io/
+  affiliation: Institut Polytechnique de Paris
+
+- name: François Crespin
+  url: https://www.linkedin.com/in/fran%C3%A7ois-crespin-3b1477230/
+  affiliation: Institut Polytechnique de Paris
+
+- name: Christian Bizer
+  url: https://www.uni-mannheim.de/dws/people/professors/prof-dr-christian-bizer/
+  affiliation: University of Mannheim
+
+- name: Aparna Varde
+  url: https://portal.findresearcher.sdu.dk/en/persons/apva/
+  affiliation: University of Southern Denmark
+
+- name: Wassila Ouerdane
+  url: https://wassilaouerdane.github.io/
+  affiliation: CentraleSupélec, Paris-Saclay University
+
+- name: Raphaël Troncy
+  url: https://www.eurecom.fr/en/people/troncy-raphael
+  affiliation: EURECOM
