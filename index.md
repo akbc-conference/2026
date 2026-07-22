@@ -89,7 +89,7 @@ We invite submissions on topics including, but not limited to:
 
 ### Submission Types
 
-We welcome three types of submissions, reflecting both mature research results and forward-looking ideas at the intersection of structured knowledge and generative AI. All submissions have to follow the [EMNLP formatting instructions](https://2026.emnlp.org/calls/main_conference_papers/#paper-submission-details). All submissions are double-blind, and all accepted submissions appear in the proceedings of the workshop.
+We welcome three types of submissions, reflecting both mature research results and forward-looking ideas at the intersection of structured knowledge and generative AI. All submissions have to follow the [EMNLP formatting instructions](https://2026.emnlp.org/calls/main_conference_papers/#paper-submission-details). All submissions are double-blind, and all accepted submissions appear in the proceedings of the workshop. This means that double submissions to other venues with proceedings are not allowed. The paper can optionally contain a limitations section and/or an appendix, which do not count towards the page limit. We cannot guarantee that the appendix will be part of the proceedings.
 
 #### 1. Regular Research Papers ([ARR](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC_ARR_Commitment) or [direct submission](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC))
 
