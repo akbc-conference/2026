@@ -28,6 +28,7 @@ It follows a successful series of previous editions: as an independent conferenc
 
 ## News
 
+- July 23rd, 2026: [Dan Roth](https://www.cis.upenn.edu/~danroth/) (University of Pennsylvania &amp; Oracle) is confirmed as a keynote speaker
 - May 28th, 2026: [Alon Halevy](https://en.wikipedia.org/wiki/Alon_Halevy) (Google) is confirmed as a keynote speaker
 - May 27th, 2026: The workshop day is fixed to **October 28, 2026**
 - May 21st, 2026: We are excited to announce [Heng Ji](https://siebelschool.illinois.edu/about/people/faculty/hengji) (UIUC) as a keynote speaker
