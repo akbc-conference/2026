@@ -16,3 +16,15 @@
   speaker: "Alon Halevy"
   institution: "Google"
   url: "https://en.wikipedia.org/wiki/Alon_Halevy"
+
+- UID: "danroth"
+  thumbnail: "dan.jpg"
+  speaker: "Dan Roth"
+  institution: "University of Pennsylvania/Oracle"
+  url: "https://www.cis.upenn.edu/~danroth/"
+
+- UID: "amirgloberson"
+  thumbnail: "amir.jpg"
+  speaker: "Amir Globerson"
+  institution: "Tel Aviv University/Google"
+  url: "https://cs3801.wixsite.com/amirgloberson"
