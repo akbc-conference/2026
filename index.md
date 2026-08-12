@@ -28,6 +28,7 @@ It follows a successful series of previous editions: as an independent conferenc
 
 ## News
 
+- August 12th, 2026: [Denny Vrandečić](https://en.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87) (Wikimedia) is confirmed as a keynote speaker
 - July 30th, 2026: [Amir Globerson](https://cs3801.wixsite.com/amirgloberson) (Tel Aviv University &amp; Google) is confirmed as a keynote speaker
 - July 23rd, 2026: [Dan Roth](https://www.cis.upenn.edu/~danroth/) (University of Pennsylvania &amp; Oracle) is confirmed as a keynote speaker
 - May 28th, 2026: [Alon Halevy](https://en.wikipedia.org/wiki/Alon_Halevy) (Google) is confirmed as a keynote speaker
