@@ -133,10 +133,6 @@ Further details are on the [shared task page]({{ site.baseurl }}/shared-task.htm
     <div class="speaker-affil">{{ s.institution }}</div>
   </div>
 {% endfor %}
-  <div class="speaker-card speaker-card-tba">
-    <div class="speaker-tba-circle">TBA</div>
-    <div class="speaker-name">More to be announced</div>
-  </div>
 </div>
 
 <a name="organization"></a>

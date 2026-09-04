@@ -34,3 +34,9 @@
   speaker: "Amir Globerson"
   institution: "Tel Aviv University/Google"
   url: "https://cs3801.wixsite.com/amirgloberson"
+
+- UID: "parisakordjamshidi"
+  thumbnail: "parisa.jpg"
+  speaker: "Parisa Kordjamshidi"
+  institution: "Michigan State University"
+  url: "https://www.cse.msu.edu/~kordjams/"
