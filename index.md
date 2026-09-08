@@ -1,6 +1,6 @@
 ---
-title: 10th Workshop on Automated Knowledge Base Construction
-display_title: "10th Workshop on<br>Automated Knowledge Base Construction"
+title: 11th Workshop on Automated Knowledge Base Construction
+display_title: "11th Workshop on<br>Automated Knowledge Base Construction"
 layout: page-fullwidth
 header:
   image_fullwidth: "budapest.jpg"
@@ -28,6 +28,8 @@ It follows a successful series of previous editions: as an independent conferenc
 
 ## News
 
+- September 8th, 2026: Out of 58 submissions, 27 papers were accepted &mdash; see the [list of accepted papers]({{ site.baseurl }}/#papers)
+- September 8th, 2026: [Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/) (Michigan State University) is confirmed as a keynote speaker
 - September 1st, 2026: Shared task results are out &mdash; see the winners on the [shared task page]({{ site.baseurl }}/shared-task.html) and the [full final leaderboard](https://www.akbc.ws/2026/AKBC%20Shared%20Task%202026%20Final%20Leaderboard.pdf)
 - August 12th, 2026: [Denny Vrandečić](https://en.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87) (Wikimedia) is confirmed as a keynote speaker
 - July 30th, 2026: [Amir Globerson](https://cs3801.wixsite.com/amirgloberson) (Tel Aviv University &amp; Google) is confirmed as a keynote speaker
@@ -58,58 +60,34 @@ It follows a successful series of previous editions: as an independent conferenc
 
 ## Call for Papers
 
-The 10th Workshop on Automated Knowledge Base Construction (AKBC) returns in 2026, bringing together researchers and practitioners working on the construction, integration, and use of structured knowledge in the era of large language models (LLMs). As LLMs continue to transform NLP, challenges such as hallucinations, lack of provenance, and limited reasoning reliability highlight the need for robust, explicit, and usable knowledge representations.
+The 11th Workshop on Automated Knowledge Base Construction (AKBC) returns in 2026, bringing together researchers and practitioners working on the construction, integration, and use of structured knowledge in the era of large language models (LLMs). As LLMs continue to transform NLP, challenges such as hallucinations, lack of provenance, and limited reasoning reliability highlight the need for robust, explicit, and usable knowledge representations. AKBC sits at the intersection of natural language processing, knowledge representation, databases, and machine learning, with a particular focus on how symbolic structure can ground, constrain, and enhance generative models.
 
-AKBC provides a venue at the intersection of natural language processing, knowledge representation, databases, and machine learning, with a particular focus on how symbolic structure can ground, constrain, and enhance generative models.
+Topics of interest include, but are not limited to:
 
-We invite submissions on topics including, but not limited to:
-
-#### Knowledge for Generative Models
-
-- Knowledge-aware pretraining and fine-tuning
-- Factuality, attribution, and verification in generation
-- Neuro-symbolic methods and hybrid models
-- Injecting and editing knowledge in LLMs
-
-#### Building and Maintaining Knowledge
-
-- Knowledge extraction and consolidation from text and multimodal data
-- Knowledge graphs, ontologies, and schema alignment
-- Knowledge base construction, completion, and continual updates
-
-#### Retrieval and Reasoning
-
-- Retrieval-augmented generation (RAG) with structured sources
-- Graph-based and knowledge-intensive question answering
-- Multi-hop reasoning and interaction with KBs
-
-#### Vision Papers
-
-- New roles for structured knowledge in generative models
-- Knowledge-aware training objectives, pretraining, and fine-tuning
-- New architectures for combining symbolic knowledge and generative models
-- Benchmarks, evaluations, and research agendas for knowledge-grounded generation
-- Position papers on the future of knowledge bases, reasoning, and trustworthy AI
+- **Knowledge for generative models:** knowledge-aware pretraining and fine-tuning; factuality, attribution, and verification; neuro-symbolic and hybrid methods; injecting and editing knowledge in LLMs
+- **Building and maintaining knowledge:** extraction and consolidation from text and multimodal data; knowledge graphs, ontologies, and schema alignment; KB construction, completion, and continual updates
+- **Retrieval and reasoning:** retrieval-augmented generation with structured sources; graph-based and knowledge-intensive question answering; multi-hop reasoning and interaction with KBs
+- **Vision papers:** new roles for structured knowledge in generative models; new architectures, benchmarks, and research agendas for knowledge-grounded generation; the future of knowledge bases, reasoning, and trustworthy AI
 
 ### Submission Types
 
-We welcome three types of submissions, reflecting both mature research results and forward-looking ideas at the intersection of structured knowledge and generative AI. All submissions have to follow the [EMNLP formatting instructions](https://2026.emnlp.org/calls/main_conference_papers/#paper-submission-details). All submissions are double-blind, and all accepted submissions appear in the proceedings of the workshop. This means that double submissions to other venues with proceedings are not allowed. The paper can optionally contain a limitations section and/or an appendix, which do not count towards the page limit. We cannot guarantee that the appendix will be part of the proceedings.
+- **Regular research papers** (8 pages + references), via [ARR commitment](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC_ARR_Commitment) or [direct submission](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC)
+- **Vision papers** (4 pages + references), via [direct submission](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC): bold ideas, emerging directions, and unifying perspectives
+- **Shared task papers** (4 pages + references), via [direct submission](https://openreview.net/group?id=EMNLP/2026/Workshop/LM-KBC_Shared_Task): system descriptions and analyses for the [AKBC shared task]({{ site.baseurl }}/shared-task.html)
 
-#### 1. Regular Research Papers ([ARR](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC_ARR_Commitment) or [direct submission](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC))
+All submissions follow the [EMNLP formatting instructions](https://2026.emnlp.org/calls/main_conference_papers/#paper-submission-details), are double-blind, and appear in the workshop proceedings, so double submissions to other venues with proceedings are not allowed. An optional limitations section and appendix do not count towards the page limit, but we cannot guarantee that the appendix will be part of the proceedings.
 
-For original research contributions. We accept papers reviewed through the ACL Rolling Review (ARR); authors may submit to ARR and commit their papers to AKBC. Accepted papers will follow standard ACL/EMNLP reviewing policies. The page limit is 8 pages + references.
+Accepted papers are presented as posters, with a selection invited for lightning talks. Remote participation is possible for attendees and authors; remote authors upload their poster to the workshop website instead of presenting physically.
 
-#### 2. Vision Papers ([direct submission](https://openreview.net/group?id=EMNLP/2026/Workshop/AKBC))
+<a name="papers"></a>
 
-For bold ideas, emerging directions, and unifying perspectives. We particularly encourage papers that articulate new opportunities and challenges for knowledge base construction in the age of LLMs, and that help define promising research agendas for the field. The page limit is 4 pages + references.
+## Accepted Papers
 
-#### 3. Shared Task Papers ([direct submission](https://openreview.net/group?id=EMNLP/2026/Workshop/LM-KBC_Shared_Task))
-
-For system descriptions and analyses related to the [AKBC shared task]({{ site.baseurl }}/shared-task.html), co-located with the workshop. These submissions should describe participating systems, methodologies, and lessons learned from the challenge. The page limit is 4 pages + references.
-
-#### Presentation Formats
-
-Accepted papers will be presented as posters, with a selection invited for lightning talks. Remote participation is possible for both attendees and authors. Instead of presenting their poster physically, remote authors will upload heir poster to the workshop Web site. The workshop will also feature invited keynotes from leading researchers in academia and industry.
+<ul class="papers-list">
+{% for p in site.data.papers %}
+  <li><span class="paper-title">{{ p.title }}</span><br><span class="paper-authors">{{ p.authors }}</span></li>
+{% endfor %}
+</ul>
 
 <a name="shared-task"></a>
 

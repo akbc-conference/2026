@@ -17,6 +17,10 @@
   url: "/#dates"
   side: left
 
+- title: Accepted Papers
+  url: "/#papers"
+  side: left
+
 - title: Shared Task
   url: "/shared-task.html"
   side: left
