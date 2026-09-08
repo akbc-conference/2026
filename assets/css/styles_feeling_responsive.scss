@@ -280,21 +280,27 @@ table.dates-table td:last-child {
 /* AKBC 2026 — Accepted papers list */
 ul.papers-list {
   list-style: none;
-  margin: 1em 0 2em;
+  margin: 1em 0 2.5em;
   padding: 0;
 }
 ul.papers-list li {
-  padding: 0.55em 0;
+  padding: 1.1em 0;
   border-bottom: 1px solid #e4e4e4;
-  line-height: 1.4;
 }
 ul.papers-list li:last-child {
   border-bottom: none;
 }
 .paper-title {
+  display: block;
+  font-size: 1.1em;
   font-weight: 600;
+  line-height: 1.35;
+  color: #222;
 }
 .paper-authors {
-  font-size: 0.9em;
-  color: #444;
+  display: block;
+  margin-top: 0.35em;
+  font-size: 0.95em;
+  line-height: 1.4;
+  color: #666;
 }

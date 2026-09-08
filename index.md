@@ -85,7 +85,7 @@ Accepted papers are presented as posters, with a selection invited for lightning
 
 <ul class="papers-list">
 {% for p in site.data.papers %}
-  <li><span class="paper-title">{{ p.title }}</span><br><span class="paper-authors">{{ p.authors }}</span></li>
+  <li><span class="paper-title">{{ p.title }}</span><span class="paper-authors">{{ p.authors }}</span></li>
 {% endfor %}
 </ul>
 
