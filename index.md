@@ -26,8 +26,11 @@ It follows a successful series of previous editions: as an independent conferenc
   <span class="linkedin-callout-cta">Follow &rarr;</span>
 </a>
 
+Sponsored by <img src="assets/img/bloomberg-logo.svg" style="height: 1.5em; width: auto;"> and <img src="assets/img/slb-logo.svg" style="height: 1.5em; width: auto;">.
+
 ## News
 
+- We are grateful to our sponsors [Bloomberg](http://bloomberg.com/) and [SLB}(https://www.slb.com/)!
 - September 8th, 2026: Out of 58 submissions, 27 papers were accepted &mdash; see the [list of accepted papers]({{ site.baseurl }}/#papers)
 - September 8th, 2026: [Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/) (Michigan State University) is confirmed as a keynote speaker
 - September 1st, 2026: Shared task results are out &mdash; see the winners on the [shared task page]({{ site.baseurl }}/shared-task.html) and the [full final leaderboard](https://www.akbc.ws/2026/AKBC%20Shared%20Task%202026%20Final%20Leaderboard.pdf)
