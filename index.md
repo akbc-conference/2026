@@ -26,7 +26,7 @@ It follows a successful series of previous editions: as an independent conferenc
   <span class="linkedin-callout-cta">Follow &rarr;</span>
 </a>
 
-Sponsored by <img src="assets/img/bloomberg-logo.svg" style="height: 1.5em; width: auto;"> and <img src="assets/img/slb-logo.svg" style="height: 1.5em; width: auto;">.
+Sponsored by <img src="assets/img/bloomberg-logo.svg" style="margin: 2em; height: 1.5em; width: auto;"> and <img src="assets/img/slb-logo.svg" style="margin: 2em; height: 3em; width: auto;">.
 
 ## News
 
