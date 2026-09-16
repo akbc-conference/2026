@@ -7,7 +7,7 @@ header:
 permalink: /
 ---
 
-Co-located with [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary &mdash; **October 28, 2026**.
+Co-located with [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary &mdash; **October 28, 2026** Room F8.
 
 While Large Language Models (LLMs) have revolutionized NLP, they remain prone to hallucinations, reasoning "mode-collapse" in open-ended generation, and a lack of factual provenance. The Automated Knowledge Base Construction (AKBC) workshop addresses a key missing piece of the generative era: structured knowledge. Knowledge Bases (KBs) serve as ground truth for fact verification, the semantic backbone for constrained decoding in generation, and as a resource behind Retrieval-Augmented Generation (RAG).
 
@@ -26,16 +26,16 @@ It follows a successful series of previous editions: as an independent conferenc
   <span class="linkedin-callout-cta">Follow &rarr;</span>
 </a>
 
-## Sponsors
+### Sponsors
 
 We are grateful to our sponsors:
 
-<a href="https://bloomberg.com"><img src="assets/img/bloomberg-logo.svg" style="margin: 2em; height: 3em; width: auto;"></a> 
-<a href="https://slb.com"><img src="assets/img/slb-logo.svg" style="margin: 2em; height: 6em; width: auto;"></a>
+<a href="https://bloomberg.com" style="text-decoration:none; border: none;"><img src="assets/img/bloomberg-logo.svg" style="margin: 2em; height: 3em; width: auto;"></a> 
+<a href="https://slb.com" style="text-decoration:none; border: none;"><img src="assets/img/slb-logo.svg" style="margin: 2em; height: 6em; width: auto;"></a>
 
 ## News
 
-- We are grateful to our sponsors [Bloomberg](http://bloomberg.com/) and [SLB}(https://www.slb.com/)!
+- We are grateful to our sponsors [Bloomberg](http://bloomberg.com/) and [SLB](https://www.slb.com/)!
 - September 8th, 2026: Out of 58 submissions, 27 papers were accepted &mdash; see the [list of accepted papers]({{ site.baseurl }}/#papers)
 - September 8th, 2026: [Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/) (Michigan State University) is confirmed as a keynote speaker
 - September 1st, 2026: Shared task results are out &mdash; see the winners on the [shared task page]({{ site.baseurl }}/shared-task.html) and the [full final leaderboard](https://www.akbc.ws/2026/AKBC%20Shared%20Task%202026%20Final%20Leaderboard.pdf)
