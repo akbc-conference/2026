@@ -26,7 +26,12 @@ It follows a successful series of previous editions: as an independent conferenc
   <span class="linkedin-callout-cta">Follow &rarr;</span>
 </a>
 
-Sponsored by <img src="assets/img/bloomberg-logo.svg" style="margin: 2em; height: 1.5em; width: auto;"> and <img src="assets/img/slb-logo.svg" style="margin: 2em; height: 3em; width: auto;">.
+## Sponsors
+
+We are grateful to our sponsors:
+
+<a href="https://bloomberg.com"><img src="assets/img/bloomberg-logo.svg" style="margin: 2em; height: 3em; width: auto;"></a> 
+<a href="https://slb.com"><img src="assets/img/slb-logo.svg" style="margin: 2em; height: 6em; width: auto;"></a>
 
 ## News
 
