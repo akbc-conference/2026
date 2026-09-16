@@ -80,7 +80,7 @@ Topics of interest include, but are not limited to:
 
 All submissions follow the [EMNLP formatting instructions](https://2026.emnlp.org/calls/main_conference_papers/#paper-submission-details), are double-blind, and appear in the workshop proceedings, so double submissions to other venues with proceedings are not allowed. An optional limitations section and appendix do not count towards the page limit, but we cannot guarantee that the appendix will be part of the proceedings.
 
-Accepted papers are presented as posters, with a selection invited for lightning talks. Remote participation is possible for attendees and authors; remote authors upload their poster to the workshop website instead of presenting physically.
+Accepted papers are presented as posters, with a selection invited for lightning talks. Remote viewing is possible; remote authors upload their poster to the workshop website instead of presenting physically.
 
 <a name="papers"></a>
 
