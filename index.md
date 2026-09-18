@@ -91,8 +91,18 @@ Accepted papers are presented as posters, with a selection invited for lightning
 
 ## Accepted Papers
 
+### Research Papers
+
 <ul class="papers-list">
 {% for p in site.data.papers %}
+  <li><span class="paper-title">{{ p.title }}</span><span class="paper-authors">{{ p.authors }}</span></li>
+{% endfor %}
+</ul>
+
+### Shared Task Papers
+
+<ul class="papers-list">
+{% for p in site.data.shared_task_papers %}
   <li><span class="paper-title">{{ p.title }}</span><span class="paper-authors">{{ p.authors }}</span></li>
 {% endfor %}
 </ul>
