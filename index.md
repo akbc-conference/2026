@@ -163,7 +163,7 @@ The program is provisional and subject to change.
     <tr><td>16:30–17:00</td><td>Invited talk 7: Dan Roth</td></tr>
     <tr><td>17:00–17:15</td><td>Community discussion</td></tr>
     <tr><td>17:15–17:30</td><td>Closing</td></tr>
-    <tr><td>18:00-open end</td><td>AKBC reception at Expo Tower Hotel bar (TBC)</td></tr>
+    <tr><td>18:00-open end</td><td>AKBC reception at Sky bar of Expo Tower Hotel (conference hotel) (TBC)</td></tr>
   </tbody>
 </table>
 
