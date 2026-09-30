@@ -13,7 +13,7 @@ While Large Language Models (LLMs) have revolutionized NLP, they remain prone to
 
 The workshop contributes to the growing momentum around integrating structured knowledge into generative models, both at training time and at inference time.
 
-It follows a successful series of previous editions: as an independent conference in [2022](https://akbc.ws/2022), [2021](https://akbc.ws/2021), and [2020](https://akbc.ws/2020), as workshop in [2017 at NIPS](https://akbc.ws/2017), in [2016 at NAACL](https://akbc.ws/2016), in [2014 at NIPS](https://akbc.ws/2014), in [2013 at CIKM](https://akbc.ws/2013), in [2012 at NAACL](https://akbc.ws/2012), and in 2010 as a stand-alone event in Grenoble, France.
+It follows a successful series of previous editions: as an independent conference in [2022](https://akbc.ws/2022), [2021](https://akbc.ws/2021), [2020](https://akbc.ws/2020), and [2019](https://www.akbc.ws/2019), and as a workshop in [2017 at NIPS](https://akbc.ws/2017), in [2016 at NAACL](https://akbc.ws/2016), in [2014 at NIPS](https://akbc.ws/2014), in [2013 at CIKM](https://akbc.ws/2013), in [2012 at NAACL](https://akbc.ws/2012), and in 2010 as a stand-alone event in Grenoble, France.
 
 <a name="news"></a>
 
