@@ -29,6 +29,10 @@
   url: "/#speakers"
   side: left
 
+- title: Schedule
+  url: "/#schedule"
+  side: left
+
 - title: Organization
   url: "/#organization"
   side: left

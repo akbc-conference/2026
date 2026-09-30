@@ -217,6 +217,35 @@ table.dates-table td:last-child {
   text-align: right;
   white-space: nowrap;
 }
+table.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0 2em;
+  font-size: 1em;
+}
+table.schedule-table th,
+table.schedule-table td {
+  padding: 0.65em 1em;
+  border-bottom: 1px solid #e4e4e4;
+  text-align: left;
+  vertical-align: top;
+}
+table.schedule-table th {
+  font-weight: 600;
+}
+table.schedule-table tbody tr:last-child td {
+  border-bottom: none;
+}
+table.schedule-table td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+@media (max-width: 640px) {
+  table.schedule-table th,
+  table.schedule-table td {
+    padding: 0.55em 0.5em;
+  }
+}
 .date-pill {
   display: inline-block;
   padding: 0.2em 0.8em;
