@@ -30,7 +30,7 @@ It follows a successful series of previous editions: as an independent conferenc
 
 We are grateful to our sponsors:
 
-<a href="https://bloomberg.com" style="text-decoration:none; border: none;"><img src="assets/img/bloomberg-logo.svg" style="margin: 2em; height: 3em; width: auto;"></a> 
+<a href="https://bloomberg.com" style="text-decoration:none; border: none;"><img src="assets/img/bbg-engineering-logo.png" style="margin: 2em; height: 3em; width: auto;"></a> 
 <a href="https://slb.com" style="text-decoration:none; border: none;"><img src="assets/img/slb-logo.svg" style="margin: 2em; height: 6em; width: auto;"></a>
 
 ## News
