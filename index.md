@@ -134,6 +134,39 @@ Further details are on the [shared task page]({{ site.baseurl }}/shared-task.htm
 {% endfor %}
 </div>
 
+<a name="schedule"></a>
+
+## Provisional Schedule
+
+The program is provisional and subject to change.
+
+<table class="schedule-table">
+  <thead>
+    <tr><th scope="col">Time</th><th scope="col">Item</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>08:30–08:45</td><td>Opening</td></tr>
+    <tr><td>08:45–09:15</td><td>Invited talk 1: Denny Vrandecic</td></tr>
+    <tr><td>09:15–09:45</td><td>Invited talk 2: Mausam</td></tr>
+    <tr><td>09:45–10:15</td><td>Invited talk 3: Heng Ji: Constructing a 16-Million-Edge Knowledge Network for Agentic Scientific Discovery</td></tr>
+    <tr><td>10:15–10:30</td><td>Featured paper 1: Explaining Textual Entailment with Lexical Entailments: Using LLMs to Supply Lexical Relations for Formal Proofs, de Jong et al.</td></tr>
+    <tr><td>10:30–11:00</td><td>Coffee break</td></tr>
+    <tr><td>11:00–11:30</td><td>Invited talk 4: Amir Globerson</td></tr>
+    <tr><td>11:30–12:00</td><td>Invited talk 5: Parisa Kordjamshidi</td></tr>
+    <tr><td>12:00–12:15</td><td>Featured paper 2: Zero-Shot Relation Classification with Large Language Models: Binary Prompting and Relevance Elicitation. Alemany et al.</td></tr>
+    <tr><td>12:15–12:30</td><td>Featured paper 3: GRACE-Mem: Graph Retrieval with Agentic Curation of Evidence for Long-Term Conversational Memory, Wang et al.</td></tr>
+    <tr><td>12:30–13:30</td><td>Lunch break</td></tr>
+    <tr><td>13:45–14:30</td><td>Shared task session</td></tr>
+    <tr><td>14:30–16:00</td><td>Poster session</td></tr>
+    <tr><td>15:30–16:00</td><td>Coffee break (overlapping with posters)</td></tr>
+    <tr><td>16:00-16:30</td><td>Invited talk 6: Alon Halevy</td></tr>
+    <tr><td>16:30–17:00</td><td>Invited talk 7: Dan Roth</td></tr>
+    <tr><td>17:00–17:15</td><td>Community discussion</td></tr>
+    <tr><td>17:15–17:30</td><td>Closing</td></tr>
+    <tr><td>18:00-open end</td><td>AKBC reception at Sky bar of Expo Tower Hotel (conference hotel) (TBC)</td></tr>
+  </tbody>
+</table>
+
 <a name="organization"></a>
 
 ## Organization
