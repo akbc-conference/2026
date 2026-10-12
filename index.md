@@ -161,9 +161,8 @@ The program is provisional and subject to change.
     <tr><td>15:30–16:00</td><td>Coffee break (overlapping with posters)</td></tr>
     <tr><td>16:00-16:30</td><td>Invited talk 6: Alon Halevy: Designing Knowledge Agents</td></tr>
     <tr><td>16:30–17:00</td><td>Invited talk 7: Dan Roth</td></tr>
-    <tr><td>17:00–17:15</td><td>Community discussion</td></tr>
+    <tr><td>17:00–17:15</td><td>Buffer</td></tr>
     <tr><td>17:15–17:30</td><td>Closing</td></tr>
-    <tr><td>18:00-open end</td><td>AKBC reception at Sky bar of Expo Tower Hotel (conference hotel) (TBC)</td></tr>
   </tbody>
 </table>
 
