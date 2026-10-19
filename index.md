@@ -187,3 +187,5 @@ Contact us at [akbc2026@gmail.com](mailto:akbc2026@gmail.com) for workshop inqui
   <li>{% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}{% if p.affiliation %} ({{ p.affiliation }}){% endif %}</li>
 {% endfor %}
 </ul>
+
+<em>Cover image CC-BY <a href="https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg">MathKnight</a></em>
