@@ -7,7 +7,7 @@ header:
 permalink: /
 ---
 
-Co-located with [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary &mdash; **October 28, 2026** Room F8.
+Co-located with [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary &mdash; **October 28, 2026** Room F8, starting at 8:30.
 
 While Large Language Models (LLMs) have revolutionized NLP, they remain prone to hallucinations, reasoning "mode-collapse" in open-ended generation, and a lack of factual provenance. The Automated Knowledge Base Construction (AKBC) workshop addresses a key missing piece of the generative era: structured knowledge. Knowledge Bases (KBs) serve as ground truth for fact verification, the semantic backbone for constrained decoding in generation, and as a resource behind Retrieval-Augmented Generation (RAG).
 
@@ -147,7 +147,7 @@ The program is provisional and subject to change.
   <tbody>
     <tr><td>08:30–08:45</td><td>Opening</td></tr>
     <tr><td>08:45–09:15</td><td>Invited talk 1: Denny Vrandecic</td></tr>
-    <tr><td>09:15–09:45</td><td>Invited talk 2: Mausam</td></tr>
+    <tr><td>09:15–09:45</td><td>Invited talk 2: Mausam: Semantic Parsing for KBQA: Robustness, Reasoning & Efficiency</td></tr>
     <tr><td>09:45–10:15</td><td>Invited talk 3: Heng Ji: Constructing a 16-Million-Edge Knowledge Network for Agentic Scientific Discovery</td></tr>
     <tr><td>10:15–10:30</td><td>Featured paper 1: Explaining Textual Entailment with Lexical Entailments: Using LLMs to Supply Lexical Relations for Formal Proofs, de Jong et al.</td></tr>
     <tr><td>10:30–11:00</td><td>Coffee break</td></tr>
