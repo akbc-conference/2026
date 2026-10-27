@@ -146,7 +146,7 @@ The program is provisional and subject to change.
   </thead>
   <tbody>
     <tr><td>08:30–08:45</td><td>Opening</td></tr>
-    <tr><td>08:45–09:15</td><td>Invited talk 1: Denny Vrandecic</td></tr>
+    <tr><td>08:45–09:15</td><td>Invited talk 1: Denny Vrandecic: Knowledge for LLMs</td></tr>
     <tr><td>09:15–09:45</td><td>Invited talk 2: Mausam: Semantic Parsing for KBQA: Robustness, Reasoning & Efficiency</td></tr>
     <tr><td>09:45–10:15</td><td>Invited talk 3: Heng Ji: Constructing a 16-Million-Edge Knowledge Network for Agentic Scientific Discovery</td></tr>
     <tr><td>10:15–10:30</td><td>Featured paper 1: Explaining Textual Entailment with Lexical Entailments: Using LLMs to Supply Lexical Relations for Formal Proofs, de Jong et al.</td></tr>
