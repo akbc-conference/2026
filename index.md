@@ -157,7 +157,7 @@ The program is provisional and subject to change.
     <tr><td>12:15–12:30</td><td>Featured paper 3: GRACE-Mem: Graph Retrieval with Agentic Curation of Evidence for Long-Term Conversational Memory, Wang et al.</td></tr>
     <tr><td>12:30–13:30</td><td>Lunch break</td></tr>
     <tr><td>13:45–14:30</td><td>Shared task session</td></tr>
-    <tr><td>14:30–16:00</td><td>Poster session</td></tr>
+    <tr><td>14:30–16:00</td><td>Poster session (boards 300-343)</td></tr>
     <tr><td>15:30–16:00</td><td>Coffee break (overlapping with posters)</td></tr>
     <tr><td>16:00-16:30</td><td>Invited talk 6: Alon Halevy: Designing Knowledge Agents</td></tr>
     <tr><td>16:30–17:00</td><td>Invited talk 7: Dan Roth</td></tr>
