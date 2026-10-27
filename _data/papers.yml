@@ -1,3 +1,5 @@
+  poster: poster_Sheila Alemany.pdf
+
 # Accepted papers at AKBC 2026 (alphabetical by title).
 # Author names as registered on OpenReview.
 
@@ -6,6 +8,7 @@
 
 - title: "A Temporal Knowledge Graph for Music Festival Lineup Forecasting"
   authors: "Julia Gastinger, Thilo Ignaz Dieing, Christian Meilicke, Heiner Stuckenschmidt"
+  poster: poster_Julia_Gastinger.pdf
 
 - title: "Auditing a KB Elicitation of Frontier LLM Knowledge: A Multi-dimensional Analysis of GPTKB v1.5"
   authors: "Shrestha Ghosh, Luca Giordano, Yujia Hu, Tuan-Phong Nguyen, Simon Razniewski"
@@ -15,9 +18,11 @@
 
 - title: "Distill-RE: Few-Shot Relation Extraction via Teacher LLM Reasoning Distillation"
   authors: "Danielle Sullivan-Pao, Sheila Alemany, Olga Simek"
-
+  poster: poster_Danielle_Sullivan-Pao.pdf
+  
 - title: "Edge Knowledge Bases for Sustainable and Explainable AI"
   authors: "Aparna S. Varde, Emil Njor, Francesco Daghero, Mahyar Tourchi Moghaddam"
+  poster: poster_Aparna_Varde.pdf
 
 - title: "Epistemic Twins: Enabling a Symbolic Science of Language Model Knowledge"
   authors: "Simon Razniewski, Shrestha Ghosh, Luca Giordano, Yujia Hu, Tuan-Phong Nguyen"
@@ -30,12 +35,14 @@
 
 - title: "Evidence-Guided Schema Normalization for Temporal Tabular Reasoning"
   authors: "Ashish Thanga, Vibhu Dixit, Abhilash Shankarampeta, Vivek Gupta"
+  poster: poster_Ashish_Thanga.pdf
 
 - title: "Explaining Textual Entailment with Lexical Entailments: Using LLMs to Supply Lexical Relations for Formal Proofs"
   authors: "Jorryt de Jong, Stefan Moraca, Ettore Cesari, Lasha Abzianidze"
 
 - title: "FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs"
   authors: "Darian Lee, Shannon Rumsey, Jack St. Clair, Xinyi Tang, Aditya Bansal, Yuanming Shi"
+  poster: poster_Darian_Lee.pdf
 
 - title: "Fine-Grained Table Retrieval Through the Lens of Complex Queries"
   authors: "Wojciech Kosiuk, Xingyu Ji, Yeounoh Chung, Fatma Ozcan, Madelon Hulsebos"
@@ -45,6 +52,7 @@
 
 - title: "GRACE: Graph-Grounded Reflective Agent Copilot Engine for Expert-in-the-Loop Knowledge Expansion"
   authors: "John Seon Keun Yi, Joshua R Minot, Dokyun Lee"
+  poster: poster_John_Seon_Keun_Yi.pdf
 
 - title: "GRACE-Mem: Graph Retrieval with Agentic Curation of Evidence for Long-Term Conversational Memory"
   authors: "Heng Wang, Xuan Ni Chen, Pei-Yun Chang, Chih-Hsi Chen, Hsin-Yu Huang, Chienyi Lin, I-Ling Chung"
@@ -69,15 +77,18 @@
 
 - title: "Schema-Guided Extraction of Interaction Knowledge Bases from Narrative Text: A Folktale Case Study"
   authors: "Sergey Kovalchuk, Anastasia Ugleva, Oleg Kubryak"
+  poster: poster_Sergey_Kovalchuk.pdf
 
 - title: "The Canonical Order Problem: When Large Language Models Are Unreliable Knowledge Bases for Multi-Valued Relations"
   authors: "Timo Pierre Schrader, Annemarie Friedrich, Simon Razniewski, Lukas Lange"
 
 - title: "When Relevance Is Not Evidence: A Controlled Diagnostic of Claim-Conditioned Support Ranking"
   authors: "Ke Lu"
+  poster: poster_Ke_Lu.pdf
 
 - title: "When String Matching Stands In for a Knowledge Base: A Role-Aware Audit of WikiBigEdit"
   authors: "Edison Yang, Neel Marripalapu, Akshaj Agadi"
 
 - title: "Zero-Shot Relation Classification with Large Language Models: Binary Prompting and Relevance Elicitation"
   authors: "Sheila Alemany, Danielle Sullivan-Pao, Olga Simek"
+  poster: poster_Sheila Alemany.pdf

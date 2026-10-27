@@ -8,7 +8,8 @@
 
 - title: "🥉 3rd place — The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts"
   authors: "Christophe Khalil, Aya Mourad"
-
+  poster: shared_task_Christophe_Khalil.pdf
+  
 - title: "Closed-Book Knowledge Base Construction with Calibrated Abstention and Numeric Self-Consistency"
   authors: "Tanvir Ahmed"
 
@@ -26,13 +27,15 @@
 
 - title: "Pre-training Aware Directed Reasoning for Closed-Book Knowledge Base Construction"
   authors: "Mikołaj Tym"
-
+  poster: shared_task_Mikolaj_Tym.pdf
+  
 - title: "Exemplars Primarily Shift Retrieval, Verification Instructions Can Shift Rejection: An Anatomy of Inference-Time Interventions for Closed-Book Knowledge Base Construction"
   authors: "Takashi Sasaki"
 
 - title: "COVER-KBC: Evidence-Centric Adaptive Inference for Closed-Book Knowledge Base Construction"
   authors: "Quoc-Linh Vo"
-
+  poster: shared_task_Quoc-Linh_Vo.pdf
+  
 - title: "MuseList: Confidence-Gated Multi-Surface Recall for Closed-Book Knowledge Base Construction"
   authors: "Adrian Zimmermann"
 
@@ -47,6 +50,7 @@
 
 - title: "DataMind at AKBC Shared Task 2026: Relation-Specific Multiple Prompting for Closed-Book Knowledge Base Completion"
   authors: "Tanaree Patcharatrakul, Peerapon Vateekul"
+  poster: shared_task_Tanaree_Patcharatrakul.pdf
 
 - title: "Relation-Specific Elicitation of a Base Model under a 32B Closed-Book Budget for LM-KBC 2026"
   authors: "Ruggero Marino Lazzaroni, Tim Booker, Pau Soler Valadés, Mathias Angermaier, Kirill Solovev"

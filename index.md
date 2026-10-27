@@ -98,7 +98,7 @@ Accepted papers are presented as posters, with a selection invited for lightning
 
 <ul class="papers-list">
 {% for p in site.data.papers %}
-  <li><span class="paper-title">{{ p.title }}</span><span class="paper-authors">{{ p.authors }}</span></li>
+  <li><span class="paper-title">{{ p.title }}</span><span class="paper-authors">{{ p.authors }} (<a href="{{ site.baseurl }}/presentations/posters/{{p.poster}}">poster</a>)</span></li>
 {% endfor %}
 </ul>
 
@@ -106,7 +106,7 @@ Accepted papers are presented as posters, with a selection invited for lightning
 
 <ul class="papers-list">
 {% for p in site.data.shared_task_papers %}
-  <li><span class="paper-title">{{ p.title }}</span><span class="paper-authors">{{ p.authors }}</span></li>
+  <li><span class="paper-title">{{ p.title }}</span><span class="paper-authors">{{ p.authors }}{{% if p.poster %}} (<a href="{{ site.baseurl }}/presentations/shared-task-posters/{{p.poster}}">poster</a>) {{% endif %}} </span></li>
 {% endfor %}
 </ul>
 
